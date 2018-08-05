@@ -1,0 +1,2 @@
+# Blockchain-Exam-Portal
+This repo contains all the source code files necessary to build a simple test portal for students on the Ethereum network. Upon scoring beyond a pre-set score, the students are gifted with a suitable amount of ether.  Note: Some changes are required to make the ether transaction between two accounts bug-free. Don't forget to configure the truffle-config.js file in your project directory.
